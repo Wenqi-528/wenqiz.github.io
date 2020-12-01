@@ -17,7 +17,7 @@ API (Application Programming Interface) Thought (2017)
 Analyzed the Office
 application “Dingtalk” usage and penetration rate of 2017. Python
 
----
+--
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 

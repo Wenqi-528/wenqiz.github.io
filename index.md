@@ -53,5 +53,4 @@ users of changes in price of items they select. MongoDB, Python, HTML/CSS/Bootst
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+

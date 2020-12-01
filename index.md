@@ -4,7 +4,7 @@
 
 ### Research
 
-[L2 language exposure (2019-2020)](/https://ugradsymposium.wisc.edu/zhou-and-tong/)
+[L2 language exposure (2019-2020)](https://ugradsymposium.wisc.edu/wp-content/uploads/sites/454/2020/05/Zhou-and-Tong.pdf)
 <br><br>
 the effects of L2 language exposure and current language context on categorization in Mandarin-English bilinguals (PI: Haley Vlach). 
 <br><br>

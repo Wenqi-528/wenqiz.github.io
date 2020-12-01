@@ -38,7 +38,7 @@ users of changes in price of items they select. MongoDB, Python, HTML/CSS/Bootst
 
 ---
 
-### Skills and Interests
+### Skills 
 
 • Data Analysis: R, Python, MySQL, SAS, MongoDB<br/>
 • Data processing: Spark, Hadoop<br/>
@@ -49,6 +49,9 @@ users of changes in price of items they select. MongoDB, Python, HTML/CSS/Bootst
 
 ---
 
+### Interests
+
+• [ Adobe Indesign art portfolio ](https://price-alert-personal.herokuapp.com/)
 
 
 

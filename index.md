@@ -51,7 +51,8 @@ users of changes in price of items they select. MongoDB, Python, HTML/CSS/Bootst
 
 ### Interests
 
-• [ Adobe Indesign art portfolio ](/pdf/Final_Updated.pdf)
+- [ Adobe Indesign art portfolio ](/pdf/Final_Updated.pdf)
+-[ Commercial Logo Design ](/images/2-01.png)
 
 
 

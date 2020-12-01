@@ -40,12 +40,12 @@ users of changes in price of items they select. MongoDB, Python, HTML/CSS/Bootst
 
 ### Skills and Interests
 
-• Data Analysis: R, Python, MySQL, SAS, MongoDB
-• Data processing: Spark, Hadoop
-• Website Optimization: WordPress, HTML/CSS/Bootstrap
-• Word Processing: Microsoft Office, Qualtrics
-• Graphics Software: Canva, Pixlr, Adobe Photoshop, Illustrator, InDesign
-• Video editing: Adobe Premiere Pro
+• Data Analysis: R, Python, MySQL, SAS, MongoDB<br/>
+• Data processing: Spark, Hadoop<br/>
+• Website Optimization: WordPress, HTML/CSS/Bootstrap<br/>
+• Word Processing: Microsoft Office, Qualtrics<br/>
+• Graphics Software: Canva, Pixlr, Adobe Photoshop, Illustrator, InDesign<br/>
+• Video editing: Adobe Premiere Pro<br/>
 
 ---
 

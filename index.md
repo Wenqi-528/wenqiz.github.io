@@ -6,12 +6,15 @@
 
 [L2 language exposure (2019-2020)](https://ugradsymposium.wisc.edu/wp-content/uploads/sites/454/2020/05/Zhou-and-Tong.pdf)
 <br><br>
-the effects of L2 language exposure and current language context on categorization in Mandarin-English bilinguals (PI: Haley Vlach). 
-<br><br>
-MYSQL, Excel
+the effects of L2 language exposure and current language context on categorization in Mandarin-English bilinguals (PI: Haley Vlach). MYSQL, Excel
 
-## Project
+### Project
 ---
+API (Application Programming Interface) Thought (2017)
+<br><br>
+Analyzed the Office
+application “Dingtalk” usage and penetration rate of 2017. Python
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 

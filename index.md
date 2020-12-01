@@ -30,6 +30,12 @@ Found the solution for clients wanting to move inside Toronto with the compariso
 Foursquare API
 <br><br>
 
+• [Price alert web application (2020)](https://price-alert-personal.herokuapp.com/)
+<br><br>
+Allow periodic scanning of online websites, to notify
+users of changes in price of items they select. MongoDB, Python, HTML/CSS/Bootstrap, Mailgun
+<br><br>
+
 ---
 
 ### Category Name 2

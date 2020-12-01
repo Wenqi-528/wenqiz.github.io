@@ -4,7 +4,7 @@
 
 ### Research
 
-[L2 language exposure (2019-2020)](https://ugradsymposium.wisc.edu/wp-content/uploads/sites/454/2020/05/Zhou-and-Tong.pdf)
+• [L2 language exposure (2019-2020)](https://ugradsymposium.wisc.edu/wp-content/uploads/sites/454/2020/05/Zhou-and-Tong.pdf)
 <br><br>
 the effects of L2 language exposure and current language context on categorization in Mandarin-English bilinguals (PI: Haley Vlach). MYSQL, Excel
 
@@ -38,13 +38,14 @@ users of changes in price of items they select. MongoDB, Python, HTML/CSS/Bootst
 
 ---
 
-### Category Name 2
+### Skills and Interests
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+• Data Analysis: R, Python, MySQL, SAS, MongoDB
+• Data processing: Spark, Hadoop
+• Website Optimization: WordPress, HTML/CSS/Bootstrap
+• Word Processing: Microsoft Office, Qualtrics
+• Graphics Software: Canva, Pixlr, Adobe Photoshop, Illustrator, InDesign
+• Video editing: Adobe Premiere Pro
 
 ---
 

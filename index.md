@@ -29,6 +29,7 @@ Undergraduate Admission of UW-Madison. Python, SQL, WordPress, InDesign
 Found the solution for clients wanting to move inside Toronto with the comparison of prices and similar boroughs and venues. Python,
 Foursquare API
 <br><br>
+
 ---
 
 ### Category Name 2

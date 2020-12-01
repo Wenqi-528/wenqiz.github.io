@@ -2,11 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Research
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[L2 language exposure (2019-2020)](/https://ugradsymposium.wisc.edu/zhou-and-tong/)
+the effects of L2 language exposure and current language context on categorization in Mandarin-English bilinguals (PI: Haley Vlach). 
+<br><br>
+MYSQL, Excel
 
+## Project
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>

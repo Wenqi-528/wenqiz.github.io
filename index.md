@@ -8,22 +8,25 @@
 <br><br>
 the effects of L2 language exposure and current language context on categorization in Mandarin-English bilinguals (PI: Haley Vlach). MYSQL, Excel
 
----
+
 
 ### Project
 
-API (Application Programming Interface) Thought (2017)
+• API (Application Programming Interface) Thought (2017)
 <br><br>
 Analyzed the Office
 application “Dingtalk” usage and penetration rate of 2017. Python
 
---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+• [2019 Transfer Students Booklet](https://transfer.wisc.edu/transferstats/)
+<br><br>
+Data Analysis and visualization for
+Undergraduate Admission of UW-Madison. Python, SQL, WordPress, InDesign
+
+• [Moving choice in Toronto (2020)](https://www.linkedin.com/pulse/how-choose-site-toronto-wenqi-zhou/?published=t&trackingId=3iw8bdAxT%2FG7he6J9s3Jog%3D%3D)
+<br><br>
+Found the solution for clients wanting to move inside Toronto with the comparison of prices and similar boroughs and venues. Python,
+Foursquare API
 
 ---
 
